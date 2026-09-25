@@ -41,7 +41,7 @@ do complexity analysis}
 
 
 ## 4. Error management 
-This is basically the semantics checking step. If the user input a code that is invalid for complexity analysis , tell him why is that , 
+This is basically the semantics checking step. If the user input a code that is [invalid for complexity analysis](https://github.com/wantedskates/Complexity-analyzer/blob/main/Design/error-management.md) , tell him why is that , 
 do not just tell him it is not valid for analysis and to do so one must categorize the types of errors and to do so one must categorize 
 the types of code given. 
 ### Questions i am researching. :-
