@@ -36,7 +36,7 @@ do complexity analysis}
  3. I need a way to analyze to relationship between the inputs and outputs , how to do it? Should i just run the program a hundred times with
     growing input data and record the output data and then put them all in a table and then compare this table to the already established tables
     of the standard mathematical functions ( O(n) , O(n^2) , O(log n) ) and then find the table that most look like the program table and assign
-    that complexity to it ? call this "Brute force way" . I feel that there is a much more elegant way but right now let me stick with this one.
+    that complexity to it ? call this "[Tables way]()" . I feel that there is a much more elegant way but right now let me stick with this one.
 4. How to measure the different kinds of complexity analysis ? 
 
 
